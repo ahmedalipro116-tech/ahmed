@@ -20,7 +20,7 @@ import traceback
 print("SaverX: module imported — starting up", flush=True)
 
 # --- Global Configuration ---
-TELEGRAM_CHANNEL_URL = 'https://t.me/your_telegram_channel_link' # يجب استبدال هذا برابط قناة التلغرام الخاصة بك
+TELEGRAM_CHANNEL_URL = 'https://t.me/mtt_Trading7' # يجب استبدال هذا برابط قناة التلغرام الخاصة بك
 DOWNLOADS_FOLDER_NAME = 'SaverX_Downloads'
 YOUTUBE_ALLOWED = False # False للنسخة الآمنة على Google Play
 
